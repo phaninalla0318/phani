@@ -1,0 +1,27 @@
+/* Custom Styles */
+
+.hero {
+    background-color:rgb(235, 146, 146)#007bff;
+    color:red;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    background-color: red;
+    color:red;
+    padding: 20px 0;
+  }
+  
+  *{
+    background-color: black;
+  }
+  .header {
+    background-image: url('c:viswa.jpg');
+    background-size: cover;
+}
+
+
+
